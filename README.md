@@ -1,2 +1,2 @@
 # MasterThesis
-Master academic work
+Description: Master academic work
